@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429" height="337" viewBox="0 0 429 337">
+  <defs>
+    <circle id="space-image-a" cx="51" cy="113" r="35"/>
+    <filter id="space-image-b" width="125.7%" height="125.7%" x="-12.9%" y="-12.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="5"/>
+      <feOffset dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.603499522   0 0 0 0 0.579462022   0 0 0 0 0.671370111  0 0 0 0.323652627 0"/>
+    </filter>
+    <path id="space-image-c" d="M166.03143,344.574258 C300.659832,378.349122 332.162936,303.105305 367.373369,251.149332 C386.815661,222.460583 440.079716,209.274011 444.125204,175.101037 C455.497163,79.0400336 353.50335,90.0510873 283.145193,69.2053413 C238.590005,56.0045103 180.251084,16 158.082972,16 C100.908668,16 154.265504,83.7333113 130.963211,142.219608 C107.660917,200.705904 26,175.101037 26,230.870471 C26,286.639905 53.0261122,316.22408 166.03143,344.574258 Z"/>
+    <filter id="space-image-d" width="104.3%" height="105.3%" x="-2.1%" y="-2.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="5"/>
+      <feOffset dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.603499522   0 0 0 0 0.579462022   0 0 0 0 0.671370111  0 0 0 0.323652627 0"/>
+    </filter>
+    <path id="space-image-f" d="M220.220273,309.003798 C335.342647,280.967176 268.907669,265.871627 300.589163,241.590556 C335.93671,214.499778 387,204.238269 387,167.370692 C387,97.4592407 323.304559,104.701688 250.207182,104.701688 C223.412751,104.701688 199.859416,91.9599666 179.386692,99.2542777 C144.008166,111.859438 120,152.951331 120,197.236178 C120,267.147629 149.814669,326.150207 220.220273,309.003798 Z"/>
+    <filter id="space-image-g" width="109%" height="111.2%" x="-4.5%" y="-5.6%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="8"/>
+      <feOffset dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.799875453 0"/>
+    </filter>
+    <path id="space-image-h" d="M213.988114,333.43243 C350.668986,300.049289 271.793,282.075054 309.407358,253.163639 C351.374296,220.906713 412,208.688357 412,164.790219 C412,81.5468168 336.376574,90.1703825 249.590549,90.1703825 C217.778434,90.1703825 189.814363,74.998844 165.507795,83.6841632 C123.504077,98.693098 95,147.62112 95,200.350984 C95,283.594387 130.39794,353.848619 213.988114,333.43243 Z"/>
+    <filter id="space-image-i" width="107.6%" height="109.4%" x="-3.8%" y="-4.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="8"/>
+      <feOffset dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.799875453 0"/>
+    </filter>
+    <path id="space-image-j" d="M243.065656,273 C266.875196,273 276.618019,243.185735 298.450958,226.401922 C322.810317,207.675955 358,200.582888 358,175.098901 C358,126.773985 313.24864,113 262.874417,113 C212.500195,113 174,147.417915 174,195.742831 C174,244.067746 192.691434,273 243.065656,273 Z"/>
+    <filter id="space-image-k" width="113%" height="115%" x="-6.5%" y="-7.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="8"/>
+      <feOffset dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.799875453 0"/>
+    </filter>
+    <filter id="space-image-l" width="162.3%" height="173.2%" x="-31.8%" y="-35.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-16 -16)">
+    <use fill="#F9F9F9" xlink:href="#space-image-a"/>
+    <use fill="#000" filter="url(#space-image-b)" xlink:href="#space-image-a"/>
+    <mask id="space-image-e" fill="#fff">
+      <use xlink:href="#space-image-c"/>
+    </mask>
+    <use fill="#F9F9F9" xlink:href="#space-image-c"/>
+    <use fill="#000" filter="url(#space-image-d)" xlink:href="#space-image-c"/>
+    <g mask="url(#space-image-e)" opacity=".694">
+      <use fill="#472F8C" xlink:href="#space-image-f"/>
+      <use fill="#000" filter="url(#space-image-g)" xlink:href="#space-image-f"/>
+    </g>
+    <g mask="url(#space-image-e)" opacity=".694">
+      <use fill="#472F8C" xlink:href="#space-image-h"/>
+      <use fill="#000" filter="url(#space-image-i)" xlink:href="#space-image-h"/>
+    </g>
+    <g mask="url(#space-image-e)" opacity=".694">
+      <use fill="#13004A" xlink:href="#space-image-j"/>
+      <use fill="#000" filter="url(#space-image-k)" xlink:href="#space-image-j"/>
+    </g>
+    <g mask="url(#space-image-e)">
+      <g transform="translate(107 98)">
+        <rect width="1" height="1" x="51" y="168" fill="#FFF"/>
+        <rect width="3" height="3" x="35" y="67" fill="#FFF"/>
+        <rect width="1" height="1" x="45" y="81" fill="#FFF"/>
+        <rect width="3" height="3" x="98" y="15" fill="#FFF"/>
+        <rect width="3" height="3" x="46.373" y="3.373" fill="#000" transform="rotate(-17 47.873 4.873)"/>
+        <rect width="2" height="2" x="144" y="1" fill="#000" transform="rotate(-17 145 2)"/>
+        <rect width="2" height="2" x="63.051" y="30.051" fill="#000" transform="rotate(-3 64.051 31.051)"/>
+        <rect width="2" height="2" x="27.051" y="101.051" fill="#000" transform="rotate(-3 28.051 102.051)"/>
+        <rect width="2" height="2" x="59.051" y="178.051" fill="#000" transform="rotate(-3 60.051 179.051)"/>
+        <rect width="3" height="3" x="51" y="135" fill="#000" transform="rotate(-3 52.5 136.5)"/>
+        <rect width="1" height="1" x="208" y="49" fill="#000" transform="rotate(-3 208.5 49.5)"/>
+        <rect width="1" height="1" x="205" y="98" fill="#000" transform="rotate(-3 205.5 98.5)"/>
+        <rect width="2" height="2" x="112" y="47" fill="#000" transform="rotate(-3 113 48)"/>
+        <rect width="2" height="2" x="98" y="127" fill="#000" transform="rotate(-3 99 128)"/>
+        <rect width="3" height="3" x="152" y="125" fill="#000" transform="rotate(-3 153.5 126.5)"/>
+        <rect width="2" height="2" x="167.051" y="166.051" fill="#000" transform="rotate(-3 168.051 167.051)"/>
+        <rect width="2" height="2" x="217.051" y="121.051" fill="#000" transform="rotate(-3 218.051 122.051)"/>
+        <rect width="3" height="3" x="273.373" y="101.373" fill="#000" transform="rotate(-17 274.873 102.873)"/>
+        <rect width="1" height="1" x="57" y="220" fill="#000" transform="rotate(-17 57.5 220.5)"/>
+        <rect width="1" height="1" x="186" y="2" fill="#FFF" transform="rotate(13 186.5 2.5)"/>
+        <rect width="2" height="2" x="284" y="30" fill="#FFF" transform="rotate(13 285 31)"/>
+        <rect width="2" height="2" x="126" y="218" fill="#FFF" transform="rotate(13 127 219)"/>
+        <rect width="4" height="4" x=".399" y="129.399" fill="#FFF" transform="rotate(13 2.399 131.399)"/>
+        <rect width="3" height="3" x="258" y="60" fill="#FFF"/>
+        <rect width="2" height="2" x="109" y="146" fill="#FFF"/>
+        <rect width="2" height="2" x="91" y="66" fill="#FFF"/>
+        <rect width="2" height="2" x="137" y="41" fill="#FFF"/>
+        <rect width="2" height="2" x="194" y="63" fill="#FFF"/>
+        <rect width="1" height="1" x="187" y="108" fill="#FFF"/>
+        <rect width="1" height="1" x="97" y="100" fill="#FFF"/>
+        <rect width="1" height="1" x="179" y="43" fill="#FFF"/>
+      </g>
+    </g>
+    <g transform="rotate(-24 527.984 -434.328)">
+      <g filter="url(#space-image-l)" transform="translate(.9)">
+        <path fill="#FFF" stroke="#353535" stroke-width=".9" d="M3.72698437,0.45 L6.39234793,5.79931387 L6.43957619,6 L6.43957619,16.9981144 C6.43957619,18.9034968 7.98419381,20.4481144 9.88957619,20.4481144 L31.65,20.4481144 L31.65,3.9 C31.65,1.99461761 30.1053824,0.45 28.2,0.45 L3.72698437,0.45 Z"/>
+        <rect width="17.1" height="1.2" x="9.9" y="5.4" fill="#C2BCC5" rx=".3"/>
+        <rect width="18.3" height="1.2" x="9.9" y="8.7" fill="#C2BCC5" rx=".3"/>
+        <rect width="15.9" height="1.2" x="9.9" y="12.3" fill="#C2BCC5" rx=".3"/>
+        <rect width="12.6" height="1.2" x="9.9" y="15.6" fill="#C2BCC5" rx=".3"/>
+        <path fill="#6B38FB" stroke="#353535" stroke-width=".9" d="M-0.45,3.9 C-0.45,1.99461761 1.09461761,0.45 3,0.45 C4.90538239,0.45 6.45,1.99461761 6.45,3.9 L6.45,10.95 L-0.45,10.95 L-0.45,3.9 Z"/>
+        <g transform="translate(11.7 9)">
+          <path fill="#FFF" stroke="#353535" stroke-width=".9" d="M5.22541233,0.45 L7.89273621,5.8293471 L7.93957619,6.02925209 L7.93957619,28.5660058 L33.15,28.5660058 L33.15,3.9 C33.15,1.99461761 31.6053824,0.45 29.7,0.45 L5.22541233,0.45 Z"/>
+          <rect width="17.1" height="1.2" x="11.4" y="5.4" fill="#C2BCC5" rx=".3"/>
+          <rect width="18.3" height="1.2" x="11.4" y="8.7" fill="#C2BCC5" rx=".3"/>
+          <rect width="15.9" height="1.2" x="11.4" y="12.3" fill="#C2BCC5" rx=".3"/>
+          <rect width="12.6" height="1.2" x="11.4" y="15.6" fill="#C2BCC5" rx=".3"/>
+          <path fill="#6B38FB" stroke="#353535" stroke-width=".9" d="M1.05,3.9 C1.05,1.99461761 2.59461761,0.45 4.5,0.45 C6.40538239,0.45 7.95,1.99461761 7.95,3.9 L7.95,11.4426583 L-0.837230426,11.4426583 L0.00258414872,10.6277128 C0.67213684,9.97798718 1.05,9.08478698 1.05,8.15181102 L1.05,3.9 Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

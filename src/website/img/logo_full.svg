@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="433" height="172" viewBox="0 0 433 172">
+  <g fill="none" fill-rule="evenodd" transform="translate(-98 -54)">
+    <g transform="translate(0 -45.5)">
+      <rect width="655" height="371"/>
+      <path stroke="#353535" stroke-linecap="round" stroke-width="10" d="M136 248L136 168M136 266L136 262.041977M135 195L109 175M132.456405 231C113.306864 214.197547 103.50158 205.275828 103.040553 204.234843 102.349013 202.673365 110.594164 147.752529 120.713008 130.915686 130.831852 114.078843 162.612806 103.802057 162.612806 105.111997 162.612806 106.421937 163.483992 199.104 162.612806 200.688537 162.032015 201.744895 153.460213 208.012281 136.897401 219.490695"/>
+    </g>
+    <text fill="#353535" font-family="CocoGothic-Heavy, Coco Gothic" font-size="98" font-weight="600">
+      <tspan x="228" y="174.377">Scribe</tspan>
+    </text>
+  </g>
+</svg>
