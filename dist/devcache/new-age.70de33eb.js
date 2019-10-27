@@ -176,7 +176,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./../assets/fonts/HKGrotesk-RegularLegacy.woff":[["HKGrotesk-RegularLegacy.6d6b14f6.woff","assets/fonts/HKGrotesk-RegularLegacy.woff"],"assets/fonts/HKGrotesk-RegularLegacy.woff"],"./../assets/fonts/HKGrotesk-LightLegacy.woff":[["HKGrotesk-LightLegacy.fcc1bec2.woff","assets/fonts/HKGrotesk-LightLegacy.woff"],"assets/fonts/HKGrotesk-LightLegacy.woff"],"./../assets/fonts/HKGrotesk-LegacyItalic.woff":[["HKGrotesk-LegacyItalic.bc0fd8a5.woff","assets/fonts/HKGrotesk-LegacyItalic.woff"],"assets/fonts/HKGrotesk-LegacyItalic.woff"],"./../assets/fonts/HKGrotesk-BoldLegacy.woff":[["HKGrotesk-BoldLegacy.526d62da.woff","assets/fonts/HKGrotesk-BoldLegacy.woff"],"assets/fonts/HKGrotesk-BoldLegacy.woff"],"_css_loader":"../../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./../assets/fonts/SpaceMono-Regular.ttf":[["SpaceMono-Regular.2067cc32.ttf","assets/fonts/SpaceMono-Regular.ttf"],"assets/fonts/SpaceMono-Regular.ttf"],"./../assets/fonts/SpaceMono-Italic.ttf":[["SpaceMono-Italic.202eb5f4.ttf","assets/fonts/SpaceMono-Italic.ttf"],"assets/fonts/SpaceMono-Italic.ttf"],"./../assets/fonts/SpaceMono-Bold.ttf":[["SpaceMono-Bold.6c3f863f.ttf","assets/fonts/SpaceMono-Bold.ttf"],"assets/fonts/SpaceMono-Bold.ttf"],"_css_loader":"../../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -203,7 +203,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55158" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55755" + '/');
 
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);

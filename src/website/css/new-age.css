@@ -21,23 +21,23 @@
 
 
 @font-face {
-  font-family: "HKGrotesk-RegularLegacy";
-  src:url("../assets/fonts/HKGrotesk-RegularLegacy.woff");
+  font-family: "SpaceMono-Regular";
+  src:url("../assets/fonts/SpaceMono-Regular.ttf");
 }
 
 @font-face {
   font-family: "HKGrotesk-Light";
-  src:url("../assets/fonts/HKGrotesk-LightLegacy.woff");
+  src:url("../assets/fonts/SpaceMono-Regular.ttf");
 }
 
 @font-face {
-  font-family: "HKGrotesk-Italic";
-  src:url("../assets/fonts/HKGrotesk-LegacyItalic.woff");
+  font-family: "SpaceMono-Italic";
+  src:url("../assets/fonts/SpaceMono-Italic.ttf");
 }
 
 @font-face {
-  font-family: "HKGrotesk-Bold";
-  src:url("../assets/fonts/HKGrotesk-BoldLegacy.woff");
+  font-family: "SpaceMono-Bold";
+  src:url("../assets/fonts/SpaceMono-Bold.ttf");
 }
 
 :focus {
@@ -86,14 +86,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 400;
   letter-spacing: 1px;
   color: '#353535';
 }
 
 h5 {
-  font-family: 'HKGrotesk-RegularLegacy', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Regular', 'Helvetica', 'Arial', 'sans-serif';
 }
 
 @media (max-width: 420px) {
@@ -104,7 +104,7 @@ h5 {
 
 
 p {
-  font-family: 'HKGrotesk-RegularLegacy', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Regular', 'Helvetica', 'Arial', 'sans-serif';
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 20px;
@@ -118,7 +118,7 @@ p {
 }
 
 .small {
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   font-size: 11px;
 
 }
@@ -141,7 +141,7 @@ section h2 {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 400;
   letter-spacing: 1px;
   padding-bottom: 40px;
@@ -235,7 +235,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a {
   font-size: 11px;
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
   text-transform: uppercase;
   padding-right: 1rem;
@@ -370,7 +370,7 @@ header.masthead .device-container .screen img {
 }
 
 .email-input {
-  border-radius: 100px;
+  border-radius: 0px;
   border: 0px !important;
   padding: 8px 16px;
   background-color: #FAFAFA;
@@ -496,7 +496,7 @@ header.masthead .device-container .screen img {
   border-style: solid;
   border-width: 1px;
   border-color: #e9ecef;
-  border-radius: 10px;
+  border-radius: 0px;
   background-color: #fff;
   /* background-image: url("../img/backgroundImages/mountainsFade.jpg");
   background-size: cover; */
@@ -548,7 +548,7 @@ http://jsfiddle.net/RrAVS/ */
 }
 
 .header-demo__tag {
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 400;
   text-align: left;
   text-transform: uppercase;
@@ -631,7 +631,7 @@ http://jsfiddle.net/RrAVS/ */
 /* https://css-tricks.com/snippets/css/typewriter-effect/ */
 .typewrite {
   color: rgba(53, 53, 53, 0.54);
-  font-family: 'HKGrotesk-RegularLegacy', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Regular', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 0.05rem;
   border-right: #6B38FB .05em solid;
   animation: caret 1s steps(1) infinite;
@@ -701,7 +701,7 @@ http://jsfiddle.net/RrAVS/ */
 /*  Unique JS Id for data input */
 .typewrite-download-section {
   color: rgba(53, 53, 53, 0.54);
-  font-family: 'HKGrotesk-RegularLegacy', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Regular', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 0.05rem;
   border-right: #6B38FB .05em solid;
   animation: caret 1s steps(1) infinite;
@@ -1215,8 +1215,8 @@ footer a:hover {
   font-size: 11px;
   padding: 8px 16px;
   font-weight: 600;
-  border-radius: 300px;
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  border-radius: 0;
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -1282,7 +1282,7 @@ header.about {
 
 
 section.medium-widget {
-  font-family: 'HKGrotesk-Bold', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Bold', 'Helvetica', 'Arial', 'sans-serif';
   margin: auto;
   width: 60%;
 }
@@ -1306,7 +1306,7 @@ a.medium-widget-article__title:hover {
 }
 
 div.medium-widget-article__description {
-  font-family: 'HKGrotesk-RegularLegacy', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'SpaceMono-Regular', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 1px;
   font-size: 1.25rem;
 }
@@ -1335,7 +1335,7 @@ div.medium-widget-article__info {
   }
   .medium-widget-article__image img {
     margin: 0px 0px 10px 0px;
-    border-radius: 10px;
+    border-radius: 0px;
   }
 
 }
@@ -1364,7 +1364,7 @@ div.medium-widget-article__info {
   border-style: solid;
   border-width: 1px;
   border-color: #e9ecef;
-  border-radius: 10px;
+  border-radius: 0px;
   background-color: #fff;
 
   -webkit-transition: all .35s;
